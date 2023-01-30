@@ -5,6 +5,5 @@ Updates made on master Github before
 
 ## Purpose
 
-This will be a change that conflicts
-This git confilct
-This was edited locally
+The purpose of this file is to provide examples
+on how to use git and github together
